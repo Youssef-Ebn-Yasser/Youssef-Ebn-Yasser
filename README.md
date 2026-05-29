@@ -16,59 +16,29 @@
 
 🤖 Interested in Artificial Intelligence, Machine Learning, and Generative AI  
 
----
+```md id="3j8j2m"
+# 📊 GitHub Analytics
 
-# 🛠️ Tech Stack
-
-## Backend
-- C#
-- ASP.NET Core Web API
-- Entity Framework Core
-- SignalR
-- JWT Authentication
-- RESTful APIs
-- Clean Architecture
-
-## Frontend
-- Blazor
-- Angular
-- JavaScript
-- HTML5
-- CSS3
-
-## Database
-- SQL Server
-- PostgreSQL
-
-## Cloud & Tools
-- Git
-- GitHub
-- Docker
-- Postman
-- AWS Fundamentals
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Youssef-Ebn-Yasser&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Ebn-Yasser&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
 
 ---
 
-# 📚 Currently 
+## 🔥 GitHub Streak
 
-- Building Projects
-- Learning Machine Learning & Deep Learning & Generative AI
----
-
-# 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Youssef-Ebn-Yasser&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Ebn-Yasser&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Youssef-Ebn-Yasser&theme=tokyonight" />
+</p>
 
 ---
 
-# 🌐 Connect With Me
+## 🏆 GitHub Trophies
 
-- LinkedIn: https://www.linkedin.com/in/yousef-yasser-hamada
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Youssef-Ebn-Yasser&theme=tokyonight&row=1&column=6" />
+</p>
+```
 
----
-
-# ⚡ Fun Fact
-
-I enjoy building real-world scalable systems and continuously learning modern technologies 🚀
