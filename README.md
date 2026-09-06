@@ -2,8 +2,7 @@
 <!-- 🚀 TOP HERO BANNER -->
 <!-- ======================================================== -->
 <div align="center">
-<img width="440" height="581" alt="Screenshot 2025-05-07 182119" src="https://github.com/user-attachments/assets/ae13a85a-676f-449a-9f60-2b8cc432ab31" />
-
+  <h1>Yousef Hamada</h1>
 </div>
 <!-- ======================================================== -->
 <!-- ⚡ TYPING SUBHEADER -->
