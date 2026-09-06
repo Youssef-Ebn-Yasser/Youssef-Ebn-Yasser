@@ -140,18 +140,3 @@
 </div>
 ---
  
-## 🐍 Contribution Activity
- 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Youssef-Ebn-Yasser/Youssef-Ebn-Yasser/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Youssef-Ebn-Yasser/Youssef-Ebn-Yasser/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-<br/>
-<!-- ======================================================== -->
-<!-- 🤝 FOOTER WAVE -->
-<!-- ======================================================== -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_bg=0:030712,50:0c162d,100:0a0f1d&custom_color=0:c084fc,50:818cf8,100:00C2FF&height=120&section=footer" width="100%" alt="Footer" />
-</div>
