@@ -8,9 +8,6 @@
 <!-- ======================================================== -->
 <!-- ⚡ TYPING SUBHEADER -->
 <!-- ======================================================== -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=650&height=45&lines=Full+Stack+.NET+Developer;ASP.NET+Core+Developer;build backend;CI%2FCD+%26+Docker+Enthusiast;AI+%26+Machine+Learning+Enthusiast" alt="Typing Subtitle" />
-</div>
 <br/>
 <!-- ======================================================== -->
 <!-- 🌐 ACTION BUTTONS -->
@@ -33,8 +30,7 @@
   <img src="https://img.shields.io/badge/FOCUS-ASP.NET%20Core%20%7C%20Blazor%20%7C%20Angular-818cf8?style=flat-square" alt="Focus" />
   <img src="https://img.shields.io/badge/STATUS-OPEN%20FOR%20COLLABORATION-10b981?style=flat-square" alt="Status" />
 </p>
----
- 
+
 ## 🚀 About Me
  
 - 💻 Full Stack Software Engineer specializing in **Backend Development** with **ASP.NET Core & C#**
@@ -95,7 +91,7 @@
   <table>
     <tr>
       <td width="50%" valign="top">
-        <h3>🏢 [Your ERP Platform Name]</h3>
+        <h3>🏢 AlBidaa ERP Platform</h3>
         <p>Enterprise Resource Planning solution managing commercial operations, automated invoicing, and role-based permissions.</p>
         <p>
           <img src="https://img.shields.io/badge/Access-🔒_Private_Enterprise-6B7280?style=flat-square" alt="Private" />
@@ -107,7 +103,7 @@
         </p>
       </td>
       <td width="50%" valign="top">
-        <h3>🛍️ [Your E-Commerce Platform Name]</h3>
+        <h3>🛍️  E-Commerce Brand Platform</h3>
         <p>Full-stack e-commerce system with checkout workflows, product catalog management, and a responsive Angular/Blazor UI.</p>
         <p>
           <img src="https://img.shields.io/badge/Access-🔒_Private_Client_Project-6B7280?style=flat-square" alt="Private" />
@@ -116,17 +112,6 @@
         </p>
         <p>
           <img src="https://img.shields.io/badge/Stack-Angular%2FBlazor_%2B_.NET_Core-818cf8?style=flat-square" alt="Full Stack" />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" valign="top">
-        <h3>🚢 [Your Deployment / CI-CD Project Name]</h3>
-        <p>Set up automated build, test, and deployment pipelines using GitHub Actions and Docker, containerizing services for consistent, repeatable deployments.</p>
-        <p>
-          <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-          <img src="https://img.shields.io/badge/CI%2FCD-Automated_Pipelines-10B981?style=flat-square" alt="CI/CD" />
         </p>
       </td>
     </tr>
@@ -161,7 +146,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Youssef-Ebn-Yasser/Youssef-Ebn-Yasser/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Youssef-Ebn-Yasser/Youssef-Ebn-Yasser/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Youssef-Ebn-Yasser/Youssef-Ebn-Yasser/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 <br/>
