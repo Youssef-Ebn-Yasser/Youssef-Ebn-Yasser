@@ -2,13 +2,14 @@
 <!-- 🚀 TOP HERO BANNER -->
 <!-- ======================================================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_bg=0:0a0f1d,50:0c162d,100:030712&custom_color=0:00C2FF,50:818cf8,100:c084fc&height=220&section=header&text=YOUSEF%20HAMADA&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Full%20Stack%20.NET%20Developer%20%7C%20Blazor%20%26%20Angular%20%7C%20AI%2FML%20Enthusiast&descAlignY=62&descSize=17&descAlign=50" width="100%" alt="Yousef Hamada Header" />
+<img width="440" height="581" alt="Screenshot 2025-05-07 182119" src="https://github.com/user-attachments/assets/ae13a85a-676f-449a-9f60-2b8cc432ab31" />
+
 </div>
 <!-- ======================================================== -->
 <!-- ⚡ TYPING SUBHEADER -->
 <!-- ======================================================== -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=650&height=45&lines=Full+Stack+.NET+Developer;ASP.NET+Core+Developer;Blazor+Developer;Angular+Developer;CI%2FCD+%26+Docker+Enthusiast;AI+%26+Machine+Learning+Enthusiast" alt="Typing Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=650&height=45&lines=Full+Stack+.NET+Developer;ASP.NET+Core+Developer;build backend;CI%2FCD+%26+Docker+Enthusiast;AI+%26+Machine+Learning+Enthusiast" alt="Typing Subtitle" />
 </div>
 <br/>
 <!-- ======================================================== -->
